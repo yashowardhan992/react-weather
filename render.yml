@@ -1,0 +1,4 @@
+permissions:
+  - path: /usr/local/lib/node_modules
+    owner: render
+    group: render
