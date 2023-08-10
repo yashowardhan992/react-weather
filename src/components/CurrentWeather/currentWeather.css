@@ -1,0 +1,151 @@
+.body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+.weather {
+    width: 50%;
+    border-radius: 6px;
+    box-shadow: 10px -2px 20px 2px rgb(0 0 0 / 30%);
+    color: #fff;
+    background-color: #333;
+    margin: 20px auto 0 auto;
+    padding: 0 20px 20px 20px;
+    box-sizing: border-box;
+  }
+
+  .weatherComp{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  /* top bar */
+  .loader{
+    padding: 20px;
+    text-align: left;
+  
+  }
+
+  .css-b62m3t-container {
+    text-align: left;
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+  .unit{
+    width: 50%;
+    text-align: right;
+  }
+
+
+
+  .unit select{
+    width: 98%;
+    border: 1px solid #CCC;
+    height: 38px;
+    padding: 0 20px;
+    border-radius: 5px;
+  }
+  
+  .top
+   {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .bottom {
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+
+  }
+  
+  .city {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1;
+    margin: 0;
+    letter-spacing: 1px;
+  }
+  
+  .weather-description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1;
+    margin-top: 2px;
+
+  }
+  
+  .weather-icon {
+    width: 100px;
+  }
+  
+  .temperature {
+    font-weight: 600;
+    font-size: 70px;
+    width: auto;
+    letter-spacing: -5px;
+    margin: 10px 0;
+    text-align: center;
+  }
+
+  .tempContainer {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .hl {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 0px !important;
+    padding : 5px 50px;
+  }
+
+
+  
+  .details {
+    
+    width: 100%;
+    padding: 10px 0;
+    display: block;
+    line-height: 22px;
+   
+  }
+  
+  .parameter-row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .parameter-label {
+    text-align: left;
+    font-weight: 400;
+    font-size: 14px;
+    
+  }
+  
+  .parameter-value {
+    text-align: right;
+    font-weight: 600;
+    font-size: 14px;
+  }
+  
+  .parameter-label.top {
+    border-bottom: 1px solid #fff;
+  }
+
+  @media (max-width:845px) { 
+    .weather {
+      width: 100%;
+    }
+  
+  }
