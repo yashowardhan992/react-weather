@@ -77,25 +77,32 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Images  
 
 ### Frontend
-![Front End UI](https://github.com/yashowardhan992/react-weather/assets/52581482/15d0816a-db07-4dbd-912a-5a827df0754f)
+![Front End UI](https://github.com/yashowardhan992/react-weather/assets/52581482/491afc90-2745-433d-b896-eba5cde03c0e)
+
 
 ### Springboot data from openWeather
-![Uploading springboot data.png…]()
+![springboot data](https://github.com/yashowardhan992/react-weather/assets/52581482/453d6946-7c85-435c-a0c2-8c9948bd5030)
+
 
 ### Frontend Data
-![forecast data](https://github.com/yashowardhan992/react-weather/assets/52581482/f3d49b5c-466f-4eb3-8107-68ffa204c23f)
+![forecast data](https://github.com/yashowardhan992/react-weather/assets/52581482/5d6c7038-1e60-447f-a623-1bf5ae53939f)
 
-### Acurate Data
-![Uploading accurate data.png…]()
+
+### Accurate Data
+![accurate data](https://github.com/yashowardhan992/react-weather/assets/52581482/e647d96b-a753-4451-b4e7-8ba02dc8598a)
+
 
 ### Auto Complete
-![Uploading autocomplete.png…]()
+![autocomplete](https://github.com/yashowardhan992/react-weather/assets/52581482/f048379b-fc1f-461b-8220-e49b431f5ccd)
+
 
 ### Status code 200 : 
-![API call successful](https://github.com/yashowardhan992/react-weather/assets/52581482/365153d9-3a3b-46ec-93e4-0cdfe26b0f65)
+![API call successful](https://github.com/yashowardhan992/react-weather/assets/52581482/6a1f0240-4e75-4c42-bfe1-6ce956bffe5e)
+
 
 ### Fetching forecast Data
-![Fetching forecast data successfully](https://github.com/yashowardhan992/react-weather/assets/52581482/91d174b5-d8c3-4361-b1ba-1324c0346292)
+![Fetching forecast data successfully](https://github.com/yashowardhan992/react-weather/assets/52581482/e9929a41-c256-4007-a4bc-5a79028428fd)
+
 
 ## Techstack 
 
