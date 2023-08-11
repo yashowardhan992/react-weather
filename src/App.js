@@ -13,7 +13,7 @@ function App() {
     const city = searchData.value; // Update the split format
 
     const fetchWeatherData = fetch(
-      `http://localhost:8080/api/weather/details?city=${city}&unit=metric`,
+      `https://react-weather-taupe.vercel.app/api/weather/details?city=${city}&unit=metric`,
       {
         headers: {
           "proxy-connection": "keep-alive",
