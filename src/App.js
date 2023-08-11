@@ -17,9 +17,9 @@ function App() {
       {
         headers: {
           "proxy-connection": "keep-alive",
-          "proxy-host": "http://localhost:8080",
+          "proxy-host": "https://weather-data-5j7q.onrender.com",
         },
-        Origin: "http://localhost:3000",
+        Origin: "https://react-weather-taupe.vercel.app",
       }
     );
 
