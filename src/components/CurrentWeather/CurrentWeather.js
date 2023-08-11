@@ -23,7 +23,7 @@ const CurrentWeather = ({ weatherData }) => {
       </div>
       <div className="bottom">
         <div className="tempContainer">
-          <p className="temperature">{weatherData.main.temp}&deg;C</p>
+          <p className="temperature">{Math.round(weatherData.main.temp)}&deg;C</p>
           <div className="hl">
             <p>H:{weatherData.main.temp_max}&deg;C</p>
             <p>L:{weatherData.main.temp_min}&deg;C</p>
