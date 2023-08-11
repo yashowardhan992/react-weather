@@ -19,7 +19,7 @@ function App() {
           "proxy-connection": "keep-alive",
           "proxy-host": "https://weather-data-5j7q.onrender.com",
         },
-        Origin: "https://react-weather-taupe.vercel.app",
+        Origin: "https://react-weather-three-ecru.vercel.app",
       }
     );
 
